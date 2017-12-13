@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+/debian/igdebi.postinst.debhelper
+/debian/igdebi.prerm.debhelper
+/debian/igdebi.substvars
+/debian/debhelper-build-stamp
+/debian/igdebi/

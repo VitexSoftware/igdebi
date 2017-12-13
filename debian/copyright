@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: igdebi
+Upstream-Contact: Vítězslav Dvořák <info@vitexsoftware.cz>
+Source: https://github.com/VitexSoftware/igdebi
+
+Files: *
+Copyright: 2017, Vítězslav Dvořák <info@vitexsoftware.cz>
+License: LGPL-2.1+
+

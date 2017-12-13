@@ -1,0 +1,26 @@
+Source: igdebi
+Section: python
+Priority: optional
+Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
+Build-Depends:
+ debhelper (>= 9),
+ dh-python,
+ python-all (>= 2.6.6-3),
+ python-setuptools (>= 0.6b3),
+ python3-all,
+ python3-setuptools,
+ python3-validators,
+ python3-tqdm,
+ gdebi-core
+X-Python-Version: >= 2.6
+Standards-Version: 3.9.7
+Homepage: https://github.com/vitexsoftware/igdebi
+
+Package: igdebi
+Architecture: all
+Depends:
+ ${python3:Depends},
+ ${misc:Depends},
+ python-pkg-resources
+Description: Online package installer
+ igdebi takes debian package from url or filepath and install it.
