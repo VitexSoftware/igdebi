@@ -3,6 +3,11 @@ Online package installer for Debian.
 
 Download package and install it using gdebi
 
+Usage
+-----
+
+    sudo igdebi https://repo.skype.com/latest/skypeforlinux-64.deb
+
 
 Installation
 ------------
