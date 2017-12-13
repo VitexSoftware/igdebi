@@ -21,4 +21,21 @@ Installation
     aptitude update
     aptitude install igdebi
 
+Build
+-----
+
+we use stadard debian devscripts:
+
+```shell
+debuild -i -us -uc -b
+```
+
+
+Dependencies
+------------
+
+For URL recoginsation we use https://pypi.python.org/pypi/validators
+debian package source is https://github.com/VitexSoftware/python-validators.deb
+all other dependencies are already in debian repos.
+
 
