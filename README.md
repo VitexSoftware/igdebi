@@ -1,7 +1,9 @@
-# igdebi
+# ![iGdebi](https://raw.githubusercontent.com/VitexSoftware/igdebi/master/igdebi.png)  igdebi 
+
 Online package installer for Debian. 
 
-Download package and install it using gdebi
+Download package and install it using gdebi.
+
 Also can handle local files
 
 Usage
@@ -11,7 +13,7 @@ Usage
     sudo igdebi <URL>
 ```
 
-![Screenshot](https://raw.githubusercontent.com/VitexSoftware/igdebi/master/igdebi.png)
+![Screenshot](https://raw.githubusercontent.com/VitexSoftware/igdebi/master/screenshot.png)
 
 Installation
 ------------
