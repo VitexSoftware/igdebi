@@ -10,7 +10,7 @@ Build-Depends:
  python3-all,
  python3-setuptools,
  python3-tqdm,
-X-Python-Version: >= 2.6
+X-Python-Version: >= 3.7
 Standards-Version: 3.9.7
 Homepage: https://github.com/vitexsoftware/igdebi
 

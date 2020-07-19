@@ -1,5 +1,9 @@
-igdebi (0.1) UNRELEASED; urgency=medium
+igdebi (0.2) UNRELEASED; urgency=medium
 
+  [ Vítězslav Dvořák ]
   * Initial release.
 
- -- Vítězslav Dvořák <info@vitexsoftware.cz>  Wed, 13 Dec 2017 02:58:31 +0100
+  [ CyberVitexus ]
+  * Debian package dependencies fix
+
+ -- CyberVitexus <vitex@exiv.jinonice.czf>  Sun, 19 Jul 2020 10:34:13 +0200
