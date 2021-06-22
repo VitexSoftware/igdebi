@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="console-application">
+  <id>io.github.vitexsoftware.igdebi</id>
+  
+  <name>igdebi</name>
+  <summary>package installer with download ability</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>GFDL-1.2-or-later</project_license>
+  
+  <description>
+    <p>
+      Install debian package with dependencies from url
+    </p>
+  </description>
+  
+  <icon type="stock">igdebi</icon>
+  
+  <categories>
+    <category>System</category>
+    <category>FileTools</category>
+  </categories>
+  
+  <provides>
+    <binary>igdebi</binary>
+  </provides>
+</component>
+
